@@ -43,4 +43,5 @@ An awesome list for Capacitor (with or without Ionic) resources such as online t
 * [The getting started guide](https://capacitor.ionicframework.com/docs/getting-started/)
 * [Capacitor docs](https://capacitor.ionicframework.com/docs/)
 * [Plugin template](https://github.com/ionic-team/capacitor/tree/master/plugin-template)
+* [Capacitor CLI](https://www.npmjs.com/package/@capacitor/cli)
 
